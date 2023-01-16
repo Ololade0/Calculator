@@ -1,7 +1,7 @@
 
 function display(val){
 
-    document.getElementById('result').value  += val
+  val =  document.getElementById('result').value  += val
 
     return val
 
