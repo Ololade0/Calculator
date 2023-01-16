@@ -17,11 +17,9 @@ function solve(){
     document.getElementById('result').value = y
 
     return y
-
 }
 
 function clearScreen(){
-
     document.getElementById('result').value = ''
 
 }
